@@ -1,2 +1,8 @@
-# Real Chess
-Real-time chess game 
+# Explosive Chess
+
+Explosive chess is a chess-hack. 
+
+
+## Rules
+
+write rules
